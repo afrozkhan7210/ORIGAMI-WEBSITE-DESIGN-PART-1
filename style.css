@@ -1,0 +1,28 @@
+*{
+    font-family: Lato;
+    color: cyan;
+    font-style: bold;
+    
+}
+
+h1{
+    background-color: black;
+    color: cyan;
+    font-family: Lato;
+    text-align: center;
+}
+
+body{
+    background-image: linear-gradient(to right, red , blue);
+}
+
+a{
+    text-decoration: none;
+    font-size: 30px;
+}
+
+img{
+    
+    background-color: black;
+    border-radius: 15px
+}
